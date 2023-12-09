@@ -1,0 +1,42 @@
+.container {
+  background-color: black;
+  color:beige
+  }
+
+
+  
+.lesson {
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue {
+/* Sets font color */
+color: white;
+/* Sets background color */
+background-color: rgb(226, 226, 24);
+}
+
+.section-red {
+/* sets font color */
+color:azure;
+/* sets background color */
+background-color:rgb(225, 117, 23);
+}
+
+
+#section-1 {
+  /* sets font color */
+color:azure;
+/* sets background color */
+background-color:rgb(237, 216, 198);
+
+}
+
+#section-6 { 
+  /* sets font color */
+  color:azure;
+  /* sets background color */
+  background-color:rgb(49, 26, 5);
+
+}

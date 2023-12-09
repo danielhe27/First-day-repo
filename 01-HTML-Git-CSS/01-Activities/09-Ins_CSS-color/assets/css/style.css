@@ -1,0 +1,25 @@
+.box {
+  /*Sets the height and width of the section */
+  width: 200px;
+  height: 200px
+}
+
+.box-blue {
+  /* Sets font color */
+  color: white;
+  /* Sets background color */
+  background-color: #0d0d0f;
+}
+
+.box-orange {
+ /*sets fonts color */
+  color: #141424;
+ /*sets background color */ 
+  background-color: #ffa500;
+}
+
+#box-yellow {
+  /* Uses predefined colors to define color */
+  color: purple;
+  background-color: yellow;
+};
